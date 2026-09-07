@@ -1,0 +1,11 @@
+.env
+__pycache__/
+chroma_db_upload/
+.venv/
+.ipynb_checkpoints/
+chroma_db/
+chroma_db_500/
+chroma_db_final/
+chroma_db_precise/
+chroma_db_v2/
+processed_chunks.pkl
