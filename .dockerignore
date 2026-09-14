@@ -1,0 +1,37 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# ChromaDB generated data
+chroma_db/
+chroma_db_500/
+chroma_db_final/
+chroma_db_prec*/
+chroma_db_uplo*/
+chroma_db_v2/
+chroma_db_upload/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Generated files
+processed_*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
